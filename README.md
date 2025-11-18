@@ -1,3 +1,7 @@
+Name : Sushmitha Gembunathan
+
+Register No : 212224040342
+
 # EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 
 ### Aim:
